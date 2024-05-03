@@ -1,5 +1,5 @@
 import math
-from config import SUPPORT_CHAT, OWNER_USERNAME
+from config import SUPPORT_CHAT, SUPPORT_CHANNEL
 from pyrogram.types import InlineKeyboardButton
 from PROFESSOR import app
 from PROFESSOR.utils.formatters import time_to_seconds
