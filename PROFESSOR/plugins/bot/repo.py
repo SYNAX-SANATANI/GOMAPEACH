@@ -19,24 +19,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 1 ]", url="https://t.me/Friends_Chatting_Group_Friends_0"),
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 2 ]", url="https://t.me/SOURABH_OWNER"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 1 ]", url="https://t.me/GomaPeachOneRobot"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 2 ]", url="https://t.me/GomaPeachTwoRobot"),
           ],
         [
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 3 ]", url="https://t.me/Friends_Chatting_Group_Friends_0"),
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 4 ]", url="https://t.me/SOURABH_OWNER"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 3 ]", url="https://t.me/GomaPeachThreeRobot"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 4 ]", url="https://t.me/GomaPeachFourRobot"),
           ],
                [
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 5 ]", url="https://t.me/Friends_Chatting_Group_Friends_0"),
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 6 ]", url="https://t.me/SOURABH_OWNER"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 5 ]", url="https://t.me/GomaPeachFiveRobot"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 6 ]", url="https://t.me/GomaPeachSixRobot"),
           ],
 [
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 7 ]", url="https://t.me/Friends_Chatting_Group_Friends_0"),
-          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 8 ]", url="https://t.me/SOURABH_OWNER"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 7 ]", url="https://t.me/GomaPeachSevenRobot"),
+          InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 8 ]", url="https://t.me/GomaPeachEightRobot"),
           ],          
     [
-              InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 9 ]", url=f"https://t.me/String_Generate_op_bot"),
-              InlineKeyboardButton("︎𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 10 ]", url=f"https://t.me/ProfessorStringHackBot"),
+              InlineKeyboardButton("𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 9 ]", url=f"https://t.me/GomaPeachNineRobot"),
+              InlineKeyboardButton("︎𝗚𝗼𝗺𝗮 𝗣𝗲𝗮𝗰𝗵 [ 10 ]", url=f"https://t.me/GomaPeachTenRobot"),
        
     ]]
     
